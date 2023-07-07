@@ -96,3 +96,7 @@ h3{
     font-size: 160%;
     font-weight:bold
 }
+
+body {
+  overflow: hidden; 
+}
